@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/abdallah-alghossain-37b202271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.me/10594153509?text=I'm%20interested%20in%20your%20car%20for%20sale">
+  <a href="https://wa.me/0594153509?text=I'm%20interested%20in%20your%20car%20for%20sale">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="https://twitter.com/alghossain1">
